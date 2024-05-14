@@ -23,3 +23,4 @@ You have been supplied with the dataset `netflix_data.csv` , along with the foll
 | `description` | Description of the show |
 | `genre` | Show genre |
 
+![popcorn!](https://github.com/Junjiecode/Investigate-netflix-movie/blob/main/redpopcorn.jpg)
